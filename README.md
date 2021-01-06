@@ -4,7 +4,7 @@ This repository was made to put the pieces of code of some design patterns in Ja
 Link to access the ebook: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 
 ## Design Patterns' Table of Contents
-- Constructor Pattern
+- [Constructor Pattern](constructor-pattern)
 - Module Pattern
 - Revealing Module Pattern
 
