@@ -5,7 +5,7 @@ Link to access the ebook: https://addyosmani.com/resources/essentialjsdesignpatt
 
 ## Design Patterns' Table of Contents
 - [Constructor Pattern](constructor-pattern)
-- Module Pattern
+- [Module Pattern](module-pattern)
 - Revealing Module Pattern
 
 ## Author
