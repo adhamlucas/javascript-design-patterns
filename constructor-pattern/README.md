@@ -7,7 +7,7 @@ Object constructors are used to create specif types of objects - both preapring 
 As we saw earlier, JavaScript doesn't support the concept of classes but it does support special constructor functions that work with objects. By simply prefixing a call to a constructor function with the keyword "new", we can tell JavaScript we would like the function to behave like a constructor and instantiate a new object with the members defined by that function.
 
 ```
-function Car(modek, year, miles) {
+function Car(model, year, miles) {
   this.model = model;
   this.year = year;
   this.miles = miles;
